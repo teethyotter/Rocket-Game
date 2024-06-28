@@ -68,6 +68,8 @@ public class Movement : MonoBehaviour
         rb.constraints |= RigidbodyConstraints.FreezeRotationY; // Using |= to add to existing constraints
         rb.constraints |= RigidbodyConstraints.FreezePositionZ;
 
+       //hello
+
         
 
       
